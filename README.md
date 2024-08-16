@@ -1,4 +1,4 @@
-# Python-Projects
+# PythonProjects
 Hey!! These are my python projects
 
 1.Tic-Tac-Toe
